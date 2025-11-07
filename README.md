@@ -24,3 +24,7 @@ A collaborative task and workflow platform that allows teams to manage projects 
    ng serve
    ```
 4. Access app at `http://localhost:4200`
+
+## 🧑‍💻 Author
+**Gargi Rami**  
+Credit Score Prediction API | © 2025
