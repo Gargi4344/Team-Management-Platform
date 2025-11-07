@@ -27,4 +27,4 @@ A collaborative task and workflow platform that allows teams to manage projects 
 
 ## 🧑‍💻 Author
 **Gargi Rami**  
-Credit Score Prediction API | © 2025
+Team Management Platform | © 2025
