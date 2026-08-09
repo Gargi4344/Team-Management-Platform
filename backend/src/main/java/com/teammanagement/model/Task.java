@@ -10,9 +10,21 @@ public class Task {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+    /**
+     * Unique identifier for the task.
+     */
     private String title;
+    /**
+     * Title of the task.
+     */
     private String status;
+    /**
+     * Current status of the task.
+     */
     private String assignedTo;
+    /**
+     * Username of the person to whom the task is assigned.
+     */
 
     public Task() {}
 
